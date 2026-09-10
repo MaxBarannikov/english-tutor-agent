@@ -1,4 +1,4 @@
-# AI English Speaking Tutor
+# AI English Tutor Agent
 
 A conversational English tutor that lets you practise speaking naturally with an
 AI and get structured, CEFR-aware feedback on your mistakes — without letting the
