@@ -12,3 +12,4 @@ __pycache__/
 .ruff_cache/
 chainlit.md
 TODO.md
+.DS_Store
